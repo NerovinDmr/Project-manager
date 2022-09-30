@@ -1,0 +1,99 @@
+{
+  "lists": [
+    {
+      "id": 3,
+      "name": "project 1",
+      "colorId": 3
+    },
+    {
+      "name": "project 2",
+      "colorId": 2,
+      "id": 6
+    },
+    {
+      "name": "123",
+      "colorId": 8,
+      "id": 7
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 3,
+      "text": "some",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "listId": 3,
+      "text": "some2",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "listId": 6,
+      "text": "some ",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "listId": 7,
+      "text": "123321",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "listId": 7,
+      "text": "221133",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "listId": 7,
+      "text": "111222333",
+      "completed": false,
+      "id": 6
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
